@@ -1,4 +1,4 @@
-Amazon Prime Video – Content Analysis & Power BI Dashboard
+**Amazon Prime Video**
 **---> Project Overview**
 This project analyzes the Amazon Prime Video Titles Dataset to understand the platform’s content strategy, growth patterns, and audience segmentation.
 The focus is on exploring how Prime Video distributes its content across genres, countries, ratings, and release years, and presenting insights through a well-structured Power BI dashboard.
